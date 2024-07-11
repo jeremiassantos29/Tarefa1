@@ -5,10 +5,12 @@ body{
     font-size: 22px;
     text-align: center;
 }
-h1:hover{
-    color:black;
+h1{
     font-size:28px;
     font-family: verdana;
+}
+h1:hover{
+    color:#000000;
 }
 .cadastrar{
     font-size:14px;
@@ -24,4 +26,7 @@ h1:hover{
     color:white;
     border:2px solid red;
     border-radius:0 4px 0 4px;
+}
+label:hover{
+    color:rgb(255,000,000);
 }
